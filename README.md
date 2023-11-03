@@ -8,3 +8,16 @@ Demo videos
 
 https://github.com/Saranragu/BBCNews/assets/93770418/d8be6c88-fc36-4093-84dd-d767d67c6831
 
+
+
+
+
+
+
+
+
+
+Architecture
+MVVM Using Combine
+
+![image](https://github.com/Saranragu/iOSCodeTest/assets/93770418/cd190b03-a426-4658-98c7-a67b837782db)
