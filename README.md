@@ -26,4 +26,4 @@ MVVM Using Combine
 
 
 Unit Testing and code coverage
-<img width="1238" alt="Code_coverage" src="https://github.com/Saranragu/BBCNews/assets/93770418/2cf804e0-e144-4689-98cc-ed7d98a3f0aa">
+<img width="1238" alt="Code_coverage" src="https://github.com/Saranragu/BBCNews/assets/93770418/39793138-7aac-4d8f-b7ff-724bd3760314">
